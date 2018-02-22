@@ -1,2 +1,2 @@
 # express-app
-Express.js code school course
+Express.js code school course examples
